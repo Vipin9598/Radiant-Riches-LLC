@@ -124,7 +124,7 @@ const Home = () => {
         </div>
         <div>
           <input />
-          <button >Sign Up</button>
+          <button>Sign Up</button>
         </div>
       </section>
     </div>

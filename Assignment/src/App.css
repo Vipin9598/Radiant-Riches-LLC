@@ -309,10 +309,6 @@ body{
   margin-top: 10px;
   color: white;
   font-size: 16px;
-  cursor: pointer;
-}
-.showMore p{
-  cursor: pointer;
 }
 .highlightText{
   color:#EF4C5D;
@@ -331,10 +327,6 @@ body{
   align-items: center;
   margin: 30px 30px;
 }
-.section4 button{
-  cursor: pointer;
-}
-
 
 
 .section4Title{
@@ -379,8 +371,8 @@ body{
 
 .footer-content{
   color:  #D1D6DA;
-  font-size: 13px;
-  cursor: pointer;
+  font-size: 13px
+  ;
 }
 
 .footer-title{
